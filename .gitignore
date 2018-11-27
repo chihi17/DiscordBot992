@@ -1,0 +1,9 @@
+# file
+.DS_Store
+Thumbs.db
+
+# directory
+/tmp/
+
+# wildcard
+*.log
