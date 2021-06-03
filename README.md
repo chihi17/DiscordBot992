@@ -1,24 +1,25 @@
-# RepositoryName
->something write
+# くくにゃんbot
+> Discord bot ver.0.1.0
 
-### Categories
-- [hoge1](#hoge1)
-- [hoge2](#hoge2)
+くくにゃんbotは、DiscordServer [ [99（・◇・）](http://discord.gg/3mURbxd)] でよく使いそうな機能を適宜搭載していくオリジナルbotです。
 
-***
+他のサーバーでもお使い頂けます。  
+あなたのDiscordServerに招待する？ --> [くくにゃんbot](https://discord.com/api/oauth2/authorize?client_id=560153050514194462&permissions=67584&scope=bot)
 
-### hoge1
-something
+チャンネルをフォローすることで  
+UPDATE情報をあなたのサーバーで受け取ることができます  
+--> Join to [99（・◇・）](http://discord.gg/3mURbxd)
 
-### hoge2
-something
+## 搭載機能
+
+くくにゃんbotはサーバーでおひるねしています▽  
+
+- 現在 特に機能は持っていないようです（小声）
 
 ## About
-このRepositoryはGitHub上で新しいRepositoryを作成する際にBaseとするものです。  
-Online上で新規作成したいことがあるために用意しています。  
+ご連絡はIssueへおねがいします。
 
-参考：[既存のリポジトリから新規リポジトリを作成したい](https://teratail.com/questions/31714)  
-検討余地あり：[Gitの最初のコミットは空コミットにしよう](https://qiita.com/NorsteinBekkler/items/b2418cd5e14a52189d19)
+参照： [discord.js](https://discord.js.org/#/docs/main/11.6.4/general/welcome)
 
 ## Licence
-&copy; 2018 [chihi17](http://github.com/chihi17/)
+&copy; 2021 [chihi17](http://github.com/chihi17/)
