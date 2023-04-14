@@ -1,7 +1,7 @@
 # くくにゃんbot
 > Discord bot ver.0.1.0
 
-くくにゃんbotは、DiscordServer [ [99（・◇・）](http://discord.gg/3mURbxd)] でよく使いそうな機能を適宜搭載していくオリジナルbotです。
+くくにゃんbotは、自身のDiscordServerでよく使いそうな機能を適宜搭載していくオリジナルbotです。
 
 他のサーバーでもお使い頂けます。  
 あなたのDiscordServerに招待する？ --> [くくにゃんbot](https://discord.com/api/oauth2/authorize?client_id=560153050514194462&permissions=67584&scope=bot)
